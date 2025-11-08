@@ -1,13 +1,5 @@
-# Cleanfolio Minimal
+# Jakub Frątczak - Portfolio
 
-A portfolio template built with HTML, CSS, and JavaScript.
+This project is a customized fork of [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal), a portfolio template built with HTML, CSS, and JavaScript. I’ve modified it to suit my own needs and style.
 
-## Preview
-
-[![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rjshkhr.github.io/cleanfolio-minimal)
-
-[Live Demo](https://rjshkhr.github.io/cleanfolio-minimal)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+All credit for the original design goes to [rjshkhr](https://github.com/rjshkhr).
